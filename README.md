@@ -1,3 +1,7 @@
-# Tugas-Fragment
+# Hasil Fragment Chat
+![Screenshot_20230302_075749 (1)](https://user-images.githubusercontent.com/106787436/222305032-5d235634-7dd8-42a8-8bc5-12de9efab4b1.png)
 
-<a href="https://ibb.co/K6QyHq9"><img src="https://i.ibb.co/K6QyHq9/Screenshot-20230302-075749-1.png" alt="Screenshot-20230302-075749-1" border="0"></a>
+# Hasil Fragment Status
+
+
+# Hasil Fragment Panggilan
